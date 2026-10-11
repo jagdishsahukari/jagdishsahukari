@@ -6,9 +6,9 @@ I turn raw data into clear insights that help people make better decisions. I'm 
 
 Before moving into analytics, I worked in Quality Control, which taught me to be careful with accuracy, consistency and detail. I bring the same habits to data cleaning and analysis.
 
-📍 Hyderabad, Telangana, India
-🎓 B.Sc. Data Science, University of Mumbai (2025), CGPI 9.55/10
-📚 Currently: Data Analytics training at Naresh IT, Hyderabad
+- 📍 Hyderabad, Telangana, India
+- 🎓 B.Sc. Data Science, University of Mumbai (2025), CGPI 9.55/10
+- 📚 Currently: Data Analytics training at Naresh IT, Hyderabad
 
 ---
 
@@ -27,14 +27,14 @@ Before moving into analytics, I worked in Quality Control, which taught me to be
 ## 📊 Projects
 
 ### 1. [HR Employee Attrition Analysis](https://github.com/jagdishsahukari/hr-employee-attrition-analysis)
-**Question:** Which employees are leaving, and which factors are linked to attrition?
-**What I did:** Cleaned and explored 1,470 employee records in Python, queried them in SQL, and built a 4-page Power BI dashboard.
-**Result:** Overall attrition is **16.12%** (237 of 1,470 employees).
-**Tools:** Python • SQL • Power BI
+- **Question:** Which employees are leaving, and which factors are linked to attrition?
+- **What I did:** Cleaned and explored 1,470 employee records in Python, queried them in SQL, and built a 4-page Power BI dashboard.
+- **Result:** Overall attrition is **16.12%** (237 of 1,470 employees).
+- **Tools:** Python • SQL • Power BI
 
 ### 2. Loan Approval Analysis *(repository coming soon)*
-**Question:** How do credit history, property area and applicant income relate to loan approval?
-**Tools:** Python • SQL • Power BI
+- **Question:** How do credit history, property area and applicant income relate to loan approval?
+- **Tools:** Python • SQL • Power BI
 
 ---
 
