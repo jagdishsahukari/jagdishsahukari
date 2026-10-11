@@ -1,48 +1,50 @@
 # Hi, I'm Jagdish Sahukari 👋
 
-### Aspiring Data Analyst | Python | SQL | Power BI | Excel
+### Aspiring Data Analyst | Python • SQL • Power BI • Excel
 
-I'm a Data Science graduate interested in transforming raw data into meaningful insights that support data-driven decision-making.
+I turn raw data into clear insights that help people make better decisions. I'm a Data Science graduate based in Hyderabad, and I'm looking for an entry-level Data Analyst role where I can solve real business problems with data.
 
-I enjoy exploring datasets, identifying patterns, writing SQL queries, and building interactive dashboards to communicate business insights.
+Before moving into analytics, I worked in Quality Control, which taught me to be careful with accuracy, consistency and detail. I bring the same habits to data cleaning and analysis.
 
-🎓 **Education:** B.Sc. Data Science (2025) — CGPI: 9.55/10
+📍 Hyderabad, Telangana, India
+🎓 B.Sc. Data Science, University of Mumbai (2025), CGPI 9.55/10
+📚 Currently: Data Analytics training at Naresh IT, Hyderabad
 
-📚 **Currently Learning:** Data Analytics at Naresh IT, Hyderabad
+---
 
-## 🛠️ Technical Skills
+## 🛠️ Skills
 
-- **Python:** Pandas, NumPy, Data Cleaning, Exploratory Data Analysis (EDA)
-- **SQL:** MySQL, Joins, Subqueries, Aggregations, Data Analysis
-- **Power BI:** Interactive Dashboards, KPIs, Data Visualization
-- **Excel:** Data Cleaning, Formulas, Pivot Tables, Data Analysis
-- **Statistics:** Descriptive Statistics, Correlation, Data Interpretation
+| Area | What I use |
+|---|---|
+| **Python** | Pandas, NumPy, Matplotlib, Seaborn, data cleaning, EDA |
+| **SQL** | MySQL, joins, subqueries, aggregations |
+| **Power BI** | Interactive dashboards, KPIs, data visualization |
+| **Excel** | Formulas, pivot tables, data cleaning |
+| **Statistics** | Descriptive statistics, correlation, interpreting results |
 
-## 📊 Data Analytics Projects
+---
 
-### 1. HR Employee Attrition Analysis
+## 📊 Projects
 
-Analyzing employee attrition and workforce patterns to identify trends and generate actionable business insights.
+### 1. [HR Employee Attrition Analysis](https://github.com/jagdishsahukari/hr-employee-attrition-analysis)
+**Question:** Which employees are leaving, and which factors are linked to attrition?
+**What I did:** Cleaned and explored 1,470 employee records in Python, queried them in SQL, and built a 4-page Power BI dashboard.
+**Result:** Overall attrition is **16.12%** (237 of 1,470 employees).
+**Tools:** Python • SQL • Power BI
 
-**Tools:** Python, SQL, Power BI
+### 2. Loan Approval Analysis *(repository coming soon)*
+**Question:** How do credit history, property area and applicant income relate to loan approval?
+**Tools:** Python • SQL • Power BI
 
-### 2. Loan Approval Analysis
+---
 
-Analyzing loan approval outcomes and exploring relationships between approval rates, credit history, property area, and applicant income.
+## 🎯 What I'm Looking For
 
-**Tools:** Python, SQL, Power BI
-
-*Project repositories and dashboard links will be added here as they are published.*
-
-## 🎯 Career Objective
-
-Seeking an entry-level Data Analyst opportunity where I can apply my analytical skills, solve business problems using data, and continue learning through practical projects.
+An entry-level or junior Data Analyst role where I can analyze data, build dashboards and share insights that people can act on.
 
 ## 🤝 Let's Connect
 
-- **GitHub:** [jagdishsahukari](https://github.com/jagdishsahukari)
-- **LinkedIn:** Add my LinkedIn profile link here.
-
----
+- 💼 **LinkedIn:** [linkedin.com/in/jagdish-sahukari-49064b312](https://www.linkedin.com/in/jagdish-sahukari-49064b312)
+- 📧 **Email:** [sahukarijagdish8@gmail.com](mailto:sahukarijagdish8@gmail.com)
 
 ⭐ Thanks for visiting my profile!
