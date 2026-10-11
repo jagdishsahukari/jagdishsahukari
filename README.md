@@ -32,8 +32,10 @@ Before moving into analytics, I worked in Quality Control, which taught me to be
 - **Result:** Overall attrition is **16.12%** (237 of 1,470 employees).
 - **Tools:** Python • SQL • Power BI
 
-### 2. Loan Approval Analysis *(repository coming soon)*
-- **Question:** How do credit history, property area and applicant income relate to loan approval?
+### 2. [Loan Approval Analysis](https://github.com/jagdishsahukari/loan-approval-analysis)
+- **Question:** Which applicant characteristics are linked to loan approval?
+- **What I did:** Cleaned and explored 614 loan applications in Python, queried them in SQL, and built a 7-page Power BI dashboard.
+- **Result:** Credit history was the strongest factor: **79.05%** approval with good credit versus **7.87%** with poor credit.
 - **Tools:** Python • SQL • Power BI
 
 ---
