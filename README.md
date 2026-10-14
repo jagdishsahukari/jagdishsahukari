@@ -17,14 +17,10 @@
 
 <br/><br/>
 
-<table align="center">
-<tr>
-<td align="center" width="150"><h2>9.55</h2><sub>CGPI (out of 10)</sub></td>
-<td align="center" width="150"><h2>4</h2><sub>Projects</sub></td>
-<td align="center" width="150"><h2>34</h2><sub>SQL Queries</sub></td>
-<td align="center" width="150"><h2>2</h2><sub>Certificates</sub></td>
-</tr>
-</table>
+<img src="https://capsule-render.vercel.app/api?type=rounded&width=300&height=180&color=0:0B3C5D,100:1D8CF8&text=9.55&fontSize=64&fontColor=ffffff&fontAlignY=40&desc=CGPI%20out%20of%2010&descSize=22&descAlignY=68" width="170" alt="9.55 CGPI out of 10"/>
+<img src="https://capsule-render.vercel.app/api?type=rounded&width=300&height=180&color=0:0B3C5D,100:1D8CF8&text=4&fontSize=64&fontColor=ffffff&fontAlignY=40&desc=Projects&descSize=22&descAlignY=68" width="170" alt="4 Projects"/>
+<img src="https://capsule-render.vercel.app/api?type=rounded&width=300&height=180&color=0:0B3C5D,100:1D8CF8&text=34&fontSize=64&fontColor=ffffff&fontAlignY=40&desc=SQL%20Queries&descSize=22&descAlignY=68" width="170" alt="34 SQL Queries"/>
+<img src="https://capsule-render.vercel.app/api?type=rounded&width=300&height=180&color=0:0B3C5D,100:1D8CF8&text=2&fontSize=64&fontColor=ffffff&fontAlignY=40&desc=Certificates&descSize=22&descAlignY=68" width="170" alt="2 Certificates"/>
 
 </div>
 
