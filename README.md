@@ -17,10 +17,14 @@
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/CGPI-9.55%2F10-0B3C5D?style=for-the-badge" alt="CGPI 9.55%2F10"/>
-<img src="https://img.shields.io/badge/PROJECTS-4-1D8CF8?style=for-the-badge" alt="PROJECTS 4"/>
-<img src="https://img.shields.io/badge/SQL_QUERIES-34-0A66C2?style=for-the-badge" alt="SQL_QUERIES 34"/>
-<img src="https://img.shields.io/badge/CERTIFICATES-2-0B3C5D?style=for-the-badge" alt="CERTIFICATES 2"/>
+<table align="center">
+<tr>
+<td align="center" width="150"><h2>9.55</h2><sub>CGPI (out of 10)</sub></td>
+<td align="center" width="150"><h2>4</h2><sub>Projects</sub></td>
+<td align="center" width="150"><h2>34</h2><sub>SQL Queries</sub></td>
+<td align="center" width="150"><h2>2</h2><sub>Certificates</sub></td>
+</tr>
+</table>
 
 </div>
 
